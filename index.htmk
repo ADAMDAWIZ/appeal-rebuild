@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Appeal & Rebuild</title>
+
+<meta property="og:title" content="Appeal & Rebuild: Clearing My Name">
+<meta property="og:description" content="Help support a father rebuilding his life and fighting for justice.">
+<meta property="og:image" content="og-image.jpg">
+
+<style>
+body {
+  margin:0;
+  background:#0A0806;
+  color:#F4EDD8;
+  font-family: Arial, sans-serif;
+  text-align:center;
+}
+
+/* HERO */
+.hero {
+  padding: 60px 20px;
+}
+
+.hero h1 {
+  font-size: 2.5rem;
+  margin-bottom: 10px;
+}
+
+.hero p {
+  color: rgba(244,237,216,0.6);
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+/* CENTERED PHOTO */
+.hero-photo-wrap {
+  margin-top: 30px;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+}
+
+.hero-photo {
+  width:180px;
+  height:180px;
+  object-fit:cover;
+  object-position:50% 35%;
+  border-radius:50%;
+  border:2px solid rgba(201,146,42,0.4);
+  box-shadow:0 20px 50px rgba(0,0,0,0.6);
+}
+
+/* BUTTON */
+.btn {
+  display:inline-block;
+  margin-top:30px;
+  padding:12px 24px;
+  background:#C9922A;
+  color:#000;
+  text-decoration:none;
+  font-weight:bold;
+}
+
+/* SECTION */
+.section {
+  padding:40px 20px;
+  max-width:700px;
+  margin:auto;
+  text-align:left;
+}
+
+.section h2 {
+  text-align:center;
+}
+
+.section p {
+  line-height:1.6;
+  color:rgba(244,237,216,0.7);
+}
+</style>
+</head>
+
+<body>
+
+<div class="hero">
+  <h1>Appeal & Rebuild</h1>
+
+  <p>
+    Fighting to clear my name and rebuild my life while supporting my family.
+  </p>
+
+  <div class="hero-photo-wrap">
+    <img src="campaign-photo.jpg" class="hero-photo">
+  </div>
+
+  <a class="btn" href="https://gofund.me/3f0007ed" target="_blank">
+    Donate on GoFundMe
+  </a>
+</div>
+
+<div class="section">
+  <h2>My Story</h2>
+
+  <p>
+    I recently relocated to Boston and found myself facing a situation that
+    completely changed the direction of my life.
+  </p>
+
+  <p>
+    Without access to proper resources, I was forced into a legal decision
+    that does not reflect what truly happened. That decision cost me my career,
+    stability, and opportunities I had worked hard to build.
+  </p>
+
+  <p>
+    I am now beginning the appeals process to correct this and move forward.
+    My goal is simple — restore my name, rebuild my life, and provide for my child.
+  </p>
+</div>
+
+<div class="section">
+  <h2>How Support Helps</h2>
+
+  <p>• Legal fees for the appeals process</p>
+  <p>• Basic living stability during recovery</p>
+  <p>• Supporting my child’s daily needs</p>
+  <p>• Rebuilding my career and future</p>
+</div>
+
+<div class="section" style="text-align:center;">
+  <h2>Support the Campaign</h2>
+
+  <a class="btn" href="https://gofund.me/3f0007ed" target="_blank">
+    Donate Now
+  </a>
+</div>
+
+</body>
+</html>
